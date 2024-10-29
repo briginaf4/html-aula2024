@@ -2,7 +2,8 @@ body{
     background-color: aqua;
     color: black; 
 }
-header{margin:40px;
+header{
+    margin: 40px;
 background-color:aqua ;
 text-size-adjust: 80;
 justify-content: center;
@@ -10,6 +11,12 @@ justify-content: center;
 section{background-color: aquamarine;
 margin: 40;
 display: flex;
+
+padding:20px ;
+border: 20px;
+
+
+
 
 }
 
