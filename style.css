@@ -7,6 +7,7 @@ header{
 background-color:aqua ;
 text-size-adjust: 80;
 justify-content: center;
+border:solid 5px rgb(red, rgb(13, 126, 201), blue)
 }
 section{background-color: aquamarine;
 margin: 40;
