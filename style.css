@@ -6,10 +6,12 @@ header{margin:40px;
 background-color:aqua ;
 text-size-adjust: 80;
 justify-content: center;
-
+}
+section{background-color: aquamarine;
+margin: 40;
+display: flex;
 
 }
-
 
 
 
