@@ -2,6 +2,21 @@ body{
     background-color: aqua;
     color: black; 
 }
+section{
+    background-color: black;
+    padding-top:60px ;
+    padding-bottom:60px ;
+    display: flex;
+    justify-content: center;
+}
+.primeira chamada{
+    margin-right:5% ;
+}
+.mais videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
 header{
     margin: 40px;
 background-color:aqua ;
